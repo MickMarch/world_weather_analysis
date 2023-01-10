@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 # /practice
+config.py
 .Python
 build/
 develop-eggs/
