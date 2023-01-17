@@ -27,15 +27,23 @@ Bengkulu,ID,24.76,overcast clouds,-3.8004,102.2655,Dena Hotel
 Grenfell,AU,21.28,scattered clouds,-33.9,148.1667,Albion Hotel
 Kavieng,PG,27.69,light rain,-2.5744,150.7967,Kavieng Hotel
 Voh,NC,23.22,few clouds,-20.9667,164.7,Le Vook
+San-Pedro,CI,29.38,clear sky,4.7485,-6.6363,Hôtel La Cité De San Pédro
+Saint-Paul,RE,28.06,overcast clouds,-21.0096,55.2707,Hôtel d'application
 Hualmay,PE,23.24,scattered clouds,-11.0964,-77.6139,Hotel Mi Choacan
+Caravelas,BR,29.91,clear sky,-17.7125,-39.2481,Pousada dos Navegantes
 Bredasdorp,ZA,22.12,broken clouds,-34.5322,20.0403,Victoria Hotel
 Chuy,UY,27.84,clear sky,-33.6971,-53.4616,Alerces
+Kralendijk,BQ,28.99,scattered clouds,12.15,-68.2667,Hotel Bonaire Inn
+Grand-Lahou,CI,29.05,scattered clouds,5.1367,-5.0242,Cap Lahou
 Lindi,TZ,26.22,overcast clouds,-10.0,39.7167,Baraka inn
+Yulara,AU,28.32,broken clouds,-25.2406,130.9889,Outback Pioneer Hotel & Lodge
 Hirara,JP,23.08,scattered clouds,24.8,125.2833,古謝そば屋
 Victoria,HK,22.75,scattered clouds,22.2855,114.1577,四季酒店 Four Seasons Hotel
 Antsohihy,MG,24.74,overcast clouds,-14.8796,47.9875,Escale
 Sinnamary,GF,25.61,overcast clouds,5.3833,-52.95,Hôtel du fleuve
+Maceio,BR,29.69,broken clouds,-9.6658,-35.7353,Maceió Hostel e Pousada
 Meulaboh,ID,24.37,moderate rain,4.1363,96.1285,Hotel Meuligou
+Wau,SS,29.97,clear sky,7.7029,27.9953,Safari Park Hotel
 Lubao,PH,26.84,overcast clouds,14.9167,120.55,Hacienda de Gracia Resort
 Pisco,PE,22.23,clear sky,-13.7,-76.2167,La Portada
 Salalah,OM,22.87,few clouds,17.0151,54.0924,Muscat International Hotel
@@ -44,7 +52,11 @@ Soyo,AO,27.62,broken clouds,-6.1349,12.3689,Hotel Maria Teres
 Ambilobe,MG,23.89,moderate rain,-13.2,49.05,Hôtel National
 Kuching,MY,27.79,few clouds,1.55,110.3333,Hotel Samudera
 Mitsamiouli,KM,27.76,light rain,-11.3847,43.2844,Hotel le Paradis
+Buchanan,LR,29.38,overcast clouds,5.8808,-10.0467,Phillipmena's Guesthouse
+Axim,GH,29.48,clear sky,4.8699,-2.2405,Axim Beach Hotel
+Quelimane,MZ,29.97,scattered clouds,-17.8786,36.8883,Mabassa
 Dwarka,IN,20.28,clear sky,22.2394,68.9678,The Dwarika Hotel
+Ghanzi,BW,28.74,overcast clouds,-21.5667,21.7833,Ghanzi farmhouse
 Tarrafal,CV,27.44,clear sky,15.2833,-23.7667,King Fisher Resort
 Adeje,ES,22.49,few clouds,28.1227,-16.726,Royal Garden Villas
 Banjar,ID,25.41,overcast clouds,-8.19,114.9675,Villa Banjar Beach
@@ -58,23 +70,33 @@ Bathsheba,BB,26.41,light rain,13.2167,-59.5167,Atlantis Hotel
 Kalmunai,LK,24.4,broken clouds,7.4167,81.8167,Saji new food
 Kamina,CD,20.24,light rain,-8.7386,24.9906,Hôtel DG
 Jacqueville,CI,27.88,few clouds,5.2052,-4.4146,Complexe hôtelier Grand Roi
+Tabou,CI,28.79,few clouds,4.423,-7.3528,hôtel le rochet
+Marica,BR,29.01,overcast clouds,-22.9194,-42.8186,Pousada Vila Flor
 Antofagasta,CL,22.46,scattered clouds,-23.65,-70.4,Hotel Colón
+Maragogi,BR,28.28,scattered clouds,-9.0122,-35.2225,Pousada Mariluz
+Tahoua,NE,28.15,broken clouds,14.8888,5.2692,Hotel Bungalow
 Lorengau,PG,27.63,overcast clouds,-2.0226,147.2712,Seeadler Bay Hotel
 Moerai,PF,25.32,moderate rain,-22.4333,-151.3333,Manotel Rurutu
 Oistins,BB,25.89,light rain,13.0667,-59.5333,The Abidah By Accra
+Lethem,GY,29.87,broken clouds,3.3803,-59.7968,Hotel Amazonas
+Pochutla,MX,28.23,clear sky,15.7432,-96.4661,Posada San Jose
 Rawson,AR,21.27,scattered clouds,-43.3002,-65.1023,Hotel Deportivo
 Tabuk,PH,21.54,scattered clouds,17.4189,121.4443,Davidson Hotel
 Sulangan,PH,25.38,overcast clouds,11.1373,123.7228,Marion's Inn
 Atambua,ID,23.84,overcast clouds,-9.1061,124.8925,Hotel Matahari
 Souillac,MU,25.56,overcast clouds,-20.5167,57.5167,Hotel SkylineInn
+Champerico,GT,29.3,clear sky,14.3,-91.9167,Hotel y Restaurante El Submarino
 Namibe,AO,25.51,few clouds,-15.1961,12.1522,Hotel Chik Chik Namibe
 Honiara,SB,24.24,overcast clouds,-9.4333,159.95,King Solomon Hotel
 Basco,PH,25.6,overcast clouds,20.4487,121.9702,Tawsen Hotel
+Morondava,MG,28.47,light rain,-20.2833,44.2833,Hotel Sharon Menabe
 Kapit,MY,22.71,overcast clouds,2.0167,112.9333,Haip
+Rocha,UY,29.41,clear sky,-34.4833,-54.3333,Hotel Municipal
 Mogadishu,SO,25.68,scattered clouds,2.0371,45.3438,SYL Hotel
 Toamasina,MG,24.87,moderate rain,-18.1667,49.3833,Androranga
 Kokopo,PG,25.36,overcast clouds,-4.352,152.2633,Hotel Kokopo
 Altamira,BR,23.16,light rain,-3.2033,-52.2064,Hotel Vale do Xingu
+Atar,MR,28.65,clear sky,20.5169,-13.0499,فندق سكليل
 Palmeira,BR,23.86,overcast clouds,-25.4294,-50.0064,Hotel São Domingos
 Kefamenanu,ID,22.56,overcast clouds,-9.4467,124.4781,Hotel Setangkai
 Pangkalanbuun,ID,23.79,light rain,-2.6833,111.6167,Hotel Tiara
@@ -98,3 +120,4 @@ Bluefields,NI,26.12,scattered clouds,12.0137,-83.7635,Hotel Isleño
 Ambulu,ID,24.78,overcast clouds,-8.345,113.6058,Hotel Ambulu
 Isangel,VU,25.48,few clouds,-19.55,169.2667,Tanna Lodge
 Jambi,ID,23.54,overcast clouds,-1.6,103.6167,Hotel Odua Weston Jambi
+Villeta,CO,29.34,overcast clouds,5.0089,-74.4723,Hotel Mediterraneo
