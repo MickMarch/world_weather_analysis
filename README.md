@@ -81,7 +81,7 @@ Sibolga -> Jambi -> Bengkulu -> Padang -> Sibolga <br>
 
 Using **Geoapify's API** once more, I requested driving waypoint information between each city's coordinates. Once I had that information collected, I used the `geoviews` library to create a path plot using all of the waypoint coordinates.
 
-### Pack Your Bags
+### Displaying the Results
 
 For the final step, I laid that path over an `hvplot` map of the 4 cities to show the route to drive between the 4 of them.
 
