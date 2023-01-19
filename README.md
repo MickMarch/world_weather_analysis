@@ -12,7 +12,7 @@ The purpose of this project is to create a simple random vacation based on the c
 
 ### Generating Random Cities
 
-I started by creating a random **longitude** and **latitude** generator.
+I started by creating a random **longitude** and **latitude** generator, which would create 2000 sets of coordinates.
 
 ```python
 lats = np.random.uniform(low= -90, high= 90, size= 2000)
